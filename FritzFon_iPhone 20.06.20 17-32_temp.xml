@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- iPhone contacts export from Fritz!Fon app -->
+<!--Version: 2476-->
+<!--Count: 255-->
+<phonebooks>
+  <phonebook owner="1" name="iPhone">
+    <contact>
+      <category></category>
+      <person>
+        <realName>surname name</realName>
+        <imageURL>base64...</imageURL>
+      </person>
+      <telephony>
+        <number type="home">+497111223344</number>
+        <number type="mobile">+4915111223345</number>
+        <number type="work">+00 49 (0) 7555 3224456</number>
+      </telephony>
+      <service>
+        <email classifier="private">mail@dummy.de</email>
+        <email classifier="private">name.surename@freenet.de</email>
+        <email classifier="label:">mail@name-engineering.de</email>
+        <email classifier="business">name.surname@company.de</email>
+      </service>
+    </contact>
+  </phonebook>
+</phonebooks>
+
+

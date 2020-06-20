@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- phone book export from Fritz!Box 7590 -->
+<phonebooks>
+  <phonebook name="Telefonbuch">
+    <contact>
+      <category>1</category>
+      <person>
+        <realName>surname name</realName>
+      </person>
+      <telephony nid="2">
+        <number id="0" prio="1" type="home">+49711234567</number>
+        <number id="1" prio="0" type="mobile">0174123456</number>
+      </telephony>
+      <services/>
+      <setup/>
+      <features doorphone="0"/>
+      <mod_time>1554545101</mod_time>
+      <uniqueid>24</uniqueid>
+    </contact>
+  </phonebook>
+</phonebooks>
+
+
+
