@@ -9,5 +9,5 @@ Ideas for the future:
 - show multiple numers in same category
 - import Fritz!Fon xml export file from smart phone.
 - add e-mail
-- add passpord photo
+- add passport photo
 
