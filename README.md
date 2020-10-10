@@ -1,4 +1,4 @@
-# Address-Book
+# Phone-Book Reader
 This GUI can show the content of an XML export file from a AVM Fritz!Box.
 Names in the listbox can searched. With double click or return-key the selected contact (name, numbers) will be shown on the right.
 
